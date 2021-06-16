@@ -7,7 +7,7 @@ Start the application with following docker-compose command
  the application will be reachable under  http://localhost:5000/
 
  
-## How to start
+## How to test
 Install the mode_modules
 
  * `npm install'
